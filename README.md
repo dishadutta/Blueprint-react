@@ -1,3 +1,3 @@
 # Blueprint
 
-Frontend of the Blueprint project
+Frontend of the Blueprint project.
